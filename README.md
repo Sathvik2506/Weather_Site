@@ -23,8 +23,6 @@ Visit the WeatherWise website to quickly check weather conditions for your locat
 **Contributions:**
 Contributions to WeatherWise are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the website's functionality, design, and data sources.
 
-**Live Demo:**
-[Check out the live demo here](https://Sathvik2506/WeatherWise/Video)
 
 **Screenshots:**
 (https://github.com/Sathvik2506/Weather_Site/assets/125242625/22b047d0-be78-4fcf-9400-821b1ade0b3e)
